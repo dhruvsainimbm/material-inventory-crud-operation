@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Kilogram" },
+  { "id": 2, "name": "Gram" },
+  { "id": 3, "name": "Liter" },
+  { "id": 4, "name": "Milliliter" },
+  { "id": 5, "name": "Piece" }
+]
